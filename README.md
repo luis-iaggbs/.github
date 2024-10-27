@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hey there! I’m Luis Martínez Page 👋 — a Madrid native, aviation enthusiast, and a technology buff with a relentless drive for innovation. Currently, I’m the DevSecOps Lead and Product Owner for Iberia's internal development platform, where I oversee application lifecycle security, ensuring robust and seamless integration from development to deployment. My role allows me to keep our systems safe while collaborating across dynamic and ambitious projects that push boundaries.<br><br>When I'm not diving into the code, you'll find me soaring the skies or hiking through mountains, discovering new heights (both literally and figuratively!). I’m passionate about:<br><br>- Creating solutions that empower teams and streamline processes,<br>- Collaborating with others on challenging projects, and<br>- Helping others learn, grow, and thrive in the tech space.<br><br>Feel free to reach out if you're interested in DevSecOps, internal platform development, or if you just want to chat about airplanes, mountains, or the latest in tech!
 
 ## 🏆 GitHub Trophies
